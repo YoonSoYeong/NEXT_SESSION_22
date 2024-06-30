@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=10px&section=header&&fontSize=폰트)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=15px&section=header&text=서울시 둘레길 코스&fontSize=10px)
 <div align= center>
   
 ## :herb: 서울시 둘레길 둘러보기 
